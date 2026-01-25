@@ -1,0 +1,7 @@
+rich
+pyfiglet
+requests
+beautifulsoup4
+dnspython
+python-whois
+exifread
